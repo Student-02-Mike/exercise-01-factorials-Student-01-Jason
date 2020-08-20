@@ -8,4 +8,5 @@ class TestDemo(unittest.TestCase):
         self.assertEqual(demo.get_fac(2), 2)
         self.assertEqual(demo.get_fac(3), 6)
         self.assertEqual(demo.get_fac(4), 24)
+ 
 
